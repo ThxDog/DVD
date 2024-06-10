@@ -40,15 +40,15 @@ document.getElementById(`copy_btn`).addEventListener('click', function() {
 const telegramBtn = document.getElementById('telegram_btn');
 const twitterBtn = document.getElementById('twitter_btn');
 telegramBtn.addEventListener('click', function () {
-    window.open('https://t.me/smashonsol', '_blank');
+    window.open('https://t.me/smashtokensol', '_blank');
 });
 twitterBtn.addEventListener('click', function () {
-    window.open('https://twitter.com/smashonsol', '_blank');
+    window.open('https://twitter.com/smashtokensol', '_blank');
 });
 
 // Buy Button
 document.getElementById('buy_btn').addEventListener('click', function() {
-	window.open('https://raydium.io/swap/?outputCurrency=ZE6BZQSe6U6vvMFFd2VzaJLaGUS6HnjC11bsEnQvurz', '_blank');
+	window.open('https://pump.fun/', '_blank');
 });
 
 // Money Bag Background
