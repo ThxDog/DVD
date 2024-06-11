@@ -40,10 +40,10 @@ document.getElementById(`copy_btn`).addEventListener('click', function() {
 const telegramBtn = document.getElementById('telegram_btn');
 const twitterBtn = document.getElementById('twitter_btn');
 telegramBtn.addEventListener('click', function () {
-    window.open('https://t.me/smashtokensol', '_blank');
+    window.open('https://t.me/DVDCOINSOLANA', '_blank');
 });
 twitterBtn.addEventListener('click', function () {
-    window.open('https://twitter.com/smashtokensol', '_blank');
+    window.open('https://x.com/dvdcoinsolana', '_blank');
 });
 
 // Buy Button
