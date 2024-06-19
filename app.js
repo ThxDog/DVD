@@ -40,10 +40,10 @@ document.getElementById(`copy_btn`).addEventListener('click', function() {
 const telegramBtn = document.getElementById('telegram_btn');
 const twitterBtn = document.getElementById('twitter_btn');
 telegramBtn.addEventListener('click', function () {
-    window.open('https://t.me/DVDCOINSOLANA', '_blank');
+    window.open('https://t.me/uggiecannes', '_blank');
 });
 twitterBtn.addEventListener('click', function () {
-    window.open('https://x.com/dvdcoinsolana', '_blank');
+    window.open('https://x.com/uggiesol', '_blank');
 });
 
 // Buy Button
